@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Trailsafe](github.com/kisotu/trailsafe)
 
-- 🌱 I’m currently learning **Rust, Django, System Design**
+- 🌱 I’m currently learning **System Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
