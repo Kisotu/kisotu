@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **System Design**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p align="center">
 <a href="https://x.com/jakekisot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jakekisot" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jacob-kisotu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacob-kisotu" height="30" width="40" /></a>
