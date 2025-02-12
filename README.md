@@ -4,6 +4,6 @@
 
 Freelance Full-Stack Developer<br>
 
-- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.sh`, `.ai`
-- 🌍 I'm mostly active within the **Javascript Community**
+- ⚙️ My daily use is: `.py`, `.js`, `.html`, `.css`, `.sh`, `.ai`
+- 🌍 I'm mostly active within the **Backend && System Design Communities**
 - 💬 `ping` me about **design**, **branding**, **systems**, **development**, **design thinking**
