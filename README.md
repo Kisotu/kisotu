@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Nairobi,%20Kenya-006600?style=for-the-badge&logo=google-maps&logoColor=white" alt="Nairobi, Kenya" />
 </p>
 
-### 👨‍💻 A Senior Full-Stack Developer by day ☼ and a gamer by night ☾
+### 👨‍💻 A Senior Full-Stack Developer
 
 I am a passionate **Senior Full-Stack Developer** and **System Architect** based in Nairobi, Kenya. I specialize in building high-performance, scalable, and production-grade applications that solve real-world operational problems. My expertise spans across modern backend architectures, responsive frontend experiences, and comprehensive system design.
 
