@@ -46,7 +46,7 @@ A production-grade service desk platform tailored for the **Office of the Direct
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://oloioshorua.me" target="_blank">
+  <a href="https://oloishorua.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-oloishorua.me-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:kisotujake@gmail.com" target="_blank">
